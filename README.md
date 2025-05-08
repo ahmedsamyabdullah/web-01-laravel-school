@@ -7,7 +7,7 @@
 ***
 ## 👇 Use:
 - Laravel 10.
-- 
+- Admin.LTE for Dashboard => I customized it for Me. 
 ***
 ## ✍ Instructions:
 1. Languages = Arabic & English 
